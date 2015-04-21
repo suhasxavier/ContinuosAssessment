@@ -1,0 +1,272 @@
+[
+  {
+    "total": 3,
+    "weeks": [
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423958400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425168000,
+        "a": 85,
+        "d": 8,
+        "c": 1
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1427587200,
+        "a": 473,
+        "d": 17,
+        "c": 2
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "CrystalG",
+      "id": 10641912,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10641912?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/CrystalG",
+      "html_url": "https://github.com/CrystalG",
+      "followers_url": "https://api.github.com/users/CrystalG/followers",
+      "following_url": "https://api.github.com/users/CrystalG/following{/other_user}",
+      "gists_url": "https://api.github.com/users/CrystalG/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/CrystalG/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/CrystalG/subscriptions",
+      "organizations_url": "https://api.github.com/users/CrystalG/orgs",
+      "repos_url": "https://api.github.com/users/CrystalG/repos",
+      "events_url": "https://api.github.com/users/CrystalG/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/CrystalG/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 7,
+    "weeks": [
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 1264,
+        "d": 3360,
+        "c": 3
+      },
+      {
+        "w": 1423958400,
+        "a": 44,
+        "d": 8,
+        "c": 4
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425168000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1427587200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "dggreenbaum",
+      "id": 721195,
+      "avatar_url": "https://avatars.githubusercontent.com/u/721195?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dggreenbaum",
+      "html_url": "https://github.com/dggreenbaum",
+      "followers_url": "https://api.github.com/users/dggreenbaum/followers",
+      "following_url": "https://api.github.com/users/dggreenbaum/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dggreenbaum/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dggreenbaum/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dggreenbaum/subscriptions",
+      "organizations_url": "https://api.github.com/users/dggreenbaum/orgs",
+      "repos_url": "https://api.github.com/users/dggreenbaum/repos",
+      "events_url": "https://api.github.com/users/dggreenbaum/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dggreenbaum/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 85,
+    "weeks": [
+      {
+        "w": 1422748800,
+        "a": 3561,
+        "d": 1077,
+        "c": 14
+      },
+      {
+        "w": 1423353600,
+        "a": 599,
+        "d": 326,
+        "c": 7
+      },
+      {
+        "w": 1423958400,
+        "a": 204,
+        "d": 201,
+        "c": 9
+      },
+      {
+        "w": 1424563200,
+        "a": 76,
+        "d": 15,
+        "c": 4
+      },
+      {
+        "w": 1425168000,
+        "a": 3375,
+        "d": 351155,
+        "c": 18
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 55,
+        "d": 18,
+        "c": 3
+      },
+      {
+        "w": 1426982400,
+        "a": 1698,
+        "d": 73,
+        "c": 9
+      },
+      {
+        "w": 1427587200,
+        "a": 2547,
+        "d": 709,
+        "c": 21
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "smcelroy",
+      "id": 8797748,
+      "avatar_url": "https://avatars.githubusercontent.com/u/8797748?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/smcelroy",
+      "html_url": "https://github.com/smcelroy",
+      "followers_url": "https://api.github.com/users/smcelroy/followers",
+      "following_url": "https://api.github.com/users/smcelroy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/smcelroy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/smcelroy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/smcelroy/subscriptions",
+      "organizations_url": "https://api.github.com/users/smcelroy/orgs",
+      "repos_url": "https://api.github.com/users/smcelroy/repos",
+      "events_url": "https://api.github.com/users/smcelroy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/smcelroy/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  }
+]

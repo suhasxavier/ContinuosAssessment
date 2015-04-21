@@ -1,0 +1,482 @@
+[
+  {
+    "total": 19,
+    "weeks": [
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 36,
+        "d": 102,
+        "c": 2
+      },
+      {
+        "w": 1423353600,
+        "a": 30,
+        "d": 2,
+        "c": 1
+      },
+      {
+        "w": 1423958400,
+        "a": 116,
+        "d": 103,
+        "c": 1
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425168000,
+        "a": 6,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 63,
+        "d": 1,
+        "c": 3
+      },
+      {
+        "w": 1426982400,
+        "a": 113,
+        "d": 34,
+        "c": 2
+      },
+      {
+        "w": 1427587200,
+        "a": 331,
+        "d": 9,
+        "c": 5
+      },
+      {
+        "w": 1428192000,
+        "a": 87,
+        "d": 6,
+        "c": 3
+      },
+      {
+        "w": 1428796800,
+        "a": 42,
+        "d": 41,
+        "c": 1
+      }
+    ],
+    "author": {
+      "login": "ramtinnikbakht",
+      "id": 5553910,
+      "avatar_url": "https://avatars.githubusercontent.com/u/5553910?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ramtinnikbakht",
+      "html_url": "https://github.com/ramtinnikbakht",
+      "followers_url": "https://api.github.com/users/ramtinnikbakht/followers",
+      "following_url": "https://api.github.com/users/ramtinnikbakht/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ramtinnikbakht/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ramtinnikbakht/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ramtinnikbakht/subscriptions",
+      "organizations_url": "https://api.github.com/users/ramtinnikbakht/orgs",
+      "repos_url": "https://api.github.com/users/ramtinnikbakht/repos",
+      "events_url": "https://api.github.com/users/ramtinnikbakht/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ramtinnikbakht/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 21,
+    "weeks": [
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 386,
+        "d": 9,
+        "c": 2
+      },
+      {
+        "w": 1423958400,
+        "a": 517,
+        "d": 76,
+        "c": 2
+      },
+      {
+        "w": 1424563200,
+        "a": 472,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1425168000,
+        "a": 2245,
+        "d": 1507,
+        "c": 6
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 348,
+        "d": 0,
+        "c": 2
+      },
+      {
+        "w": 1426982400,
+        "a": 262,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1427587200,
+        "a": 2055,
+        "d": 0,
+        "c": 5
+      },
+      {
+        "w": 1428192000,
+        "a": 90,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1428796800,
+        "a": 340,
+        "d": 0,
+        "c": 1
+      }
+    ],
+    "author": {
+      "login": "eallam",
+      "id": 6529707,
+      "avatar_url": "https://avatars.githubusercontent.com/u/6529707?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eallam",
+      "html_url": "https://github.com/eallam",
+      "followers_url": "https://api.github.com/users/eallam/followers",
+      "following_url": "https://api.github.com/users/eallam/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eallam/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eallam/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eallam/subscriptions",
+      "organizations_url": "https://api.github.com/users/eallam/orgs",
+      "repos_url": "https://api.github.com/users/eallam/repos",
+      "events_url": "https://api.github.com/users/eallam/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eallam/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 23,
+    "weeks": [
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 432,
+        "d": 0,
+        "c": 3
+      },
+      {
+        "w": 1423958400,
+        "a": 127,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1424563200,
+        "a": 227,
+        "d": 18,
+        "c": 4
+      },
+      {
+        "w": 1425168000,
+        "a": 74,
+        "d": 15,
+        "c": 1
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 27,
+        "d": 10,
+        "c": 3
+      },
+      {
+        "w": 1427587200,
+        "a": 758,
+        "d": 492,
+        "c": 6
+      },
+      {
+        "w": 1428192000,
+        "a": 41,
+        "d": 18,
+        "c": 2
+      },
+      {
+        "w": 1428796800,
+        "a": 239,
+        "d": 197,
+        "c": 3
+      }
+    ],
+    "author": {
+      "login": "austinpruitt",
+      "id": 6456952,
+      "avatar_url": "https://avatars.githubusercontent.com/u/6456952?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/austinpruitt",
+      "html_url": "https://github.com/austinpruitt",
+      "followers_url": "https://api.github.com/users/austinpruitt/followers",
+      "following_url": "https://api.github.com/users/austinpruitt/following{/other_user}",
+      "gists_url": "https://api.github.com/users/austinpruitt/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/austinpruitt/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/austinpruitt/subscriptions",
+      "organizations_url": "https://api.github.com/users/austinpruitt/orgs",
+      "repos_url": "https://api.github.com/users/austinpruitt/repos",
+      "events_url": "https://api.github.com/users/austinpruitt/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/austinpruitt/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 28,
+    "weeks": [
+      {
+        "w": 1422144000,
+        "a": 131,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1422748800,
+        "a": 173,
+        "d": 23,
+        "c": 3
+      },
+      {
+        "w": 1423353600,
+        "a": 185,
+        "d": 294,
+        "c": 5
+      },
+      {
+        "w": 1423958400,
+        "a": 54,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425168000,
+        "a": 26,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1425772800,
+        "a": 65,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1426377600,
+        "a": 348,
+        "d": 0,
+        "c": 3
+      },
+      {
+        "w": 1426982400,
+        "a": 35,
+        "d": 4,
+        "c": 3
+      },
+      {
+        "w": 1427587200,
+        "a": 360,
+        "d": 216,
+        "c": 8
+      },
+      {
+        "w": 1428192000,
+        "a": 39,
+        "d": 67,
+        "c": 2
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "kgodiwal",
+      "id": 6391647,
+      "avatar_url": "https://avatars.githubusercontent.com/u/6391647?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kgodiwal",
+      "html_url": "https://github.com/kgodiwal",
+      "followers_url": "https://api.github.com/users/kgodiwal/followers",
+      "following_url": "https://api.github.com/users/kgodiwal/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kgodiwal/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kgodiwal/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kgodiwal/subscriptions",
+      "organizations_url": "https://api.github.com/users/kgodiwal/orgs",
+      "repos_url": "https://api.github.com/users/kgodiwal/repos",
+      "events_url": "https://api.github.com/users/kgodiwal/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kgodiwal/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 48,
+    "weeks": [
+      {
+        "w": 1422144000,
+        "a": 853,
+        "d": 197,
+        "c": 4
+      },
+      {
+        "w": 1422748800,
+        "a": 34,
+        "d": 2,
+        "c": 1
+      },
+      {
+        "w": 1423353600,
+        "a": 427,
+        "d": 183,
+        "c": 5
+      },
+      {
+        "w": 1423958400,
+        "a": 3230,
+        "d": 3485,
+        "c": 5
+      },
+      {
+        "w": 1424563200,
+        "a": 182,
+        "d": 56,
+        "c": 4
+      },
+      {
+        "w": 1425168000,
+        "a": 11191,
+        "d": 707,
+        "c": 2
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 250,
+        "d": 81,
+        "c": 2
+      },
+      {
+        "w": 1426982400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1427587200,
+        "a": 4627,
+        "d": 2734,
+        "c": 17
+      },
+      {
+        "w": 1428192000,
+        "a": 101,
+        "d": 185,
+        "c": 3
+      },
+      {
+        "w": 1428796800,
+        "a": 1071,
+        "d": 1084,
+        "c": 5
+      }
+    ],
+    "author": {
+      "login": "davisk",
+      "id": 403409,
+      "avatar_url": "https://avatars.githubusercontent.com/u/403409?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/davisk",
+      "html_url": "https://github.com/davisk",
+      "followers_url": "https://api.github.com/users/davisk/followers",
+      "following_url": "https://api.github.com/users/davisk/following{/other_user}",
+      "gists_url": "https://api.github.com/users/davisk/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/davisk/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/davisk/subscriptions",
+      "organizations_url": "https://api.github.com/users/davisk/orgs",
+      "repos_url": "https://api.github.com/users/davisk/repos",
+      "events_url": "https://api.github.com/users/davisk/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/davisk/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  }
+]

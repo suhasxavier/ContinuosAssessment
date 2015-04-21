@@ -1,0 +1,482 @@
+[
+  {
+    "total": 3,
+    "weeks": [
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423958400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425168000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 10,
+        "d": 6,
+        "c": 3
+      },
+      {
+        "w": 1427587200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "kgary",
+      "id": 1686725,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1686725?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kgary",
+      "html_url": "https://github.com/kgary",
+      "followers_url": "https://api.github.com/users/kgary/followers",
+      "following_url": "https://api.github.com/users/kgary/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kgary/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kgary/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kgary/subscriptions",
+      "organizations_url": "https://api.github.com/users/kgary/orgs",
+      "repos_url": "https://api.github.com/users/kgary/repos",
+      "events_url": "https://api.github.com/users/kgary/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kgary/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 6,
+    "weeks": [
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 1,
+        "d": 1,
+        "c": 1
+      },
+      {
+        "w": 1423353600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423958400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1424563200,
+        "a": 70,
+        "d": 2,
+        "c": 2
+      },
+      {
+        "w": 1425168000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 122,
+        "d": 6,
+        "c": 3
+      },
+      {
+        "w": 1427587200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "bmf-Icarus",
+      "id": 9063023,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9063023?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bmf-Icarus",
+      "html_url": "https://github.com/bmf-Icarus",
+      "followers_url": "https://api.github.com/users/bmf-Icarus/followers",
+      "following_url": "https://api.github.com/users/bmf-Icarus/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bmf-Icarus/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bmf-Icarus/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bmf-Icarus/subscriptions",
+      "organizations_url": "https://api.github.com/users/bmf-Icarus/orgs",
+      "repos_url": "https://api.github.com/users/bmf-Icarus/repos",
+      "events_url": "https://api.github.com/users/bmf-Icarus/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bmf-Icarus/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 7,
+    "weeks": [
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 8764,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1423353600,
+        "a": 9201,
+        "d": 9226,
+        "c": 4
+      },
+      {
+        "w": 1423958400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425168000,
+        "a": 349,
+        "d": 9,
+        "c": 2
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1427587200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "EHawks",
+      "id": 10701512,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10701512?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/EHawks",
+      "html_url": "https://github.com/EHawks",
+      "followers_url": "https://api.github.com/users/EHawks/followers",
+      "following_url": "https://api.github.com/users/EHawks/following{/other_user}",
+      "gists_url": "https://api.github.com/users/EHawks/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/EHawks/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/EHawks/subscriptions",
+      "organizations_url": "https://api.github.com/users/EHawks/orgs",
+      "repos_url": "https://api.github.com/users/EHawks/repos",
+      "events_url": "https://api.github.com/users/EHawks/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/EHawks/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 35,
+    "weeks": [
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 400,
+        "d": 80,
+        "c": 3
+      },
+      {
+        "w": 1423958400,
+        "a": 546,
+        "d": 166,
+        "c": 1
+      },
+      {
+        "w": 1424563200,
+        "a": 212,
+        "d": 14,
+        "c": 6
+      },
+      {
+        "w": 1425168000,
+        "a": 0,
+        "d": 340,
+        "c": 1
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 363,
+        "d": 205,
+        "c": 4
+      },
+      {
+        "w": 1426982400,
+        "a": 573,
+        "d": 102,
+        "c": 17
+      },
+      {
+        "w": 1427587200,
+        "a": 32,
+        "d": 17,
+        "c": 3
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "psoiya",
+      "id": 660963,
+      "avatar_url": "https://avatars.githubusercontent.com/u/660963?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/psoiya",
+      "html_url": "https://github.com/psoiya",
+      "followers_url": "https://api.github.com/users/psoiya/followers",
+      "following_url": "https://api.github.com/users/psoiya/following{/other_user}",
+      "gists_url": "https://api.github.com/users/psoiya/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/psoiya/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/psoiya/subscriptions",
+      "organizations_url": "https://api.github.com/users/psoiya/orgs",
+      "repos_url": "https://api.github.com/users/psoiya/repos",
+      "events_url": "https://api.github.com/users/psoiya/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/psoiya/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 93,
+    "weeks": [
+      {
+        "w": 1422144000,
+        "a": 750,
+        "d": 300,
+        "c": 15
+      },
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 462,
+        "d": 9157,
+        "c": 4
+      },
+      {
+        "w": 1423958400,
+        "a": 17,
+        "d": 7,
+        "c": 1
+      },
+      {
+        "w": 1424563200,
+        "a": 2687,
+        "d": 541,
+        "c": 21
+      },
+      {
+        "w": 1425168000,
+        "a": 211,
+        "d": 15,
+        "c": 3
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 2375,
+        "d": 1738,
+        "c": 2
+      },
+      {
+        "w": 1426982400,
+        "a": 1728,
+        "d": 1284,
+        "c": 34
+      },
+      {
+        "w": 1427587200,
+        "a": 783,
+        "d": 575,
+        "c": 13
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "tdscott10",
+      "id": 7378624,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7378624?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tdscott10",
+      "html_url": "https://github.com/tdscott10",
+      "followers_url": "https://api.github.com/users/tdscott10/followers",
+      "following_url": "https://api.github.com/users/tdscott10/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tdscott10/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tdscott10/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tdscott10/subscriptions",
+      "organizations_url": "https://api.github.com/users/tdscott10/orgs",
+      "repos_url": "https://api.github.com/users/tdscott10/repos",
+      "events_url": "https://api.github.com/users/tdscott10/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tdscott10/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  }
+]

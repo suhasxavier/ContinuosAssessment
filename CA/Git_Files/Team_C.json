@@ -1,0 +1,482 @@
+[
+  {
+    "total": 2,
+    "weeks": [
+      {
+        "w": 1422144000,
+        "a": 382,
+        "d": 8,
+        "c": 2
+      },
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423958400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425168000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1427587200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "uddermode",
+      "id": 3508550,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3508550?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/uddermode",
+      "html_url": "https://github.com/uddermode",
+      "followers_url": "https://api.github.com/users/uddermode/followers",
+      "following_url": "https://api.github.com/users/uddermode/following{/other_user}",
+      "gists_url": "https://api.github.com/users/uddermode/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/uddermode/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/uddermode/subscriptions",
+      "organizations_url": "https://api.github.com/users/uddermode/orgs",
+      "repos_url": "https://api.github.com/users/uddermode/repos",
+      "events_url": "https://api.github.com/users/uddermode/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/uddermode/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 8,
+    "weeks": [
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 204,
+        "d": 26,
+        "c": 3
+      },
+      {
+        "w": 1423958400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425168000,
+        "a": 119,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 8,
+        "d": 1,
+        "c": 1
+      },
+      {
+        "w": 1426982400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1427587200,
+        "a": 77,
+        "d": 32,
+        "c": 3
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "dmierke",
+      "id": 7016581,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7016581?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmierke",
+      "html_url": "https://github.com/dmierke",
+      "followers_url": "https://api.github.com/users/dmierke/followers",
+      "following_url": "https://api.github.com/users/dmierke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmierke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmierke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmierke/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmierke/orgs",
+      "repos_url": "https://api.github.com/users/dmierke/repos",
+      "events_url": "https://api.github.com/users/dmierke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmierke/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 24,
+    "weeks": [
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 39,
+        "d": 13,
+        "c": 1
+      },
+      {
+        "w": 1423353600,
+        "a": 601,
+        "d": 121,
+        "c": 5
+      },
+      {
+        "w": 1423958400,
+        "a": 214,
+        "d": 10,
+        "c": 3
+      },
+      {
+        "w": 1424563200,
+        "a": 123,
+        "d": 29,
+        "c": 1
+      },
+      {
+        "w": 1425168000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 120,
+        "d": 272,
+        "c": 1
+      },
+      {
+        "w": 1427587200,
+        "a": 289,
+        "d": 194,
+        "c": 7
+      },
+      {
+        "w": 1428192000,
+        "a": 434,
+        "d": 179,
+        "c": 3
+      },
+      {
+        "w": 1428796800,
+        "a": 12,
+        "d": 9,
+        "c": 3
+      }
+    ],
+    "author": {
+      "login": "PhenomX",
+      "id": 10537242,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10537242?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/PhenomX",
+      "html_url": "https://github.com/PhenomX",
+      "followers_url": "https://api.github.com/users/PhenomX/followers",
+      "following_url": "https://api.github.com/users/PhenomX/following{/other_user}",
+      "gists_url": "https://api.github.com/users/PhenomX/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/PhenomX/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/PhenomX/subscriptions",
+      "organizations_url": "https://api.github.com/users/PhenomX/orgs",
+      "repos_url": "https://api.github.com/users/PhenomX/repos",
+      "events_url": "https://api.github.com/users/PhenomX/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/PhenomX/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 26,
+    "weeks": [
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 242,
+        "d": 120,
+        "c": 5
+      },
+      {
+        "w": 1423353600,
+        "a": 816,
+        "d": 649,
+        "c": 6
+      },
+      {
+        "w": 1423958400,
+        "a": 384,
+        "d": 483,
+        "c": 3
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425168000,
+        "a": 405,
+        "d": 4,
+        "c": 2
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 301,
+        "d": 112,
+        "c": 3
+      },
+      {
+        "w": 1427587200,
+        "a": 665,
+        "d": 65,
+        "c": 4
+      },
+      {
+        "w": 1428192000,
+        "a": 925,
+        "d": 24,
+        "c": 2
+      },
+      {
+        "w": 1428796800,
+        "a": 2,
+        "d": 1,
+        "c": 1
+      }
+    ],
+    "author": {
+      "login": "cacarpe1",
+      "id": 6043385,
+      "avatar_url": "https://avatars.githubusercontent.com/u/6043385?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/cacarpe1",
+      "html_url": "https://github.com/cacarpe1",
+      "followers_url": "https://api.github.com/users/cacarpe1/followers",
+      "following_url": "https://api.github.com/users/cacarpe1/following{/other_user}",
+      "gists_url": "https://api.github.com/users/cacarpe1/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/cacarpe1/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/cacarpe1/subscriptions",
+      "organizations_url": "https://api.github.com/users/cacarpe1/orgs",
+      "repos_url": "https://api.github.com/users/cacarpe1/repos",
+      "events_url": "https://api.github.com/users/cacarpe1/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/cacarpe1/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 69,
+    "weeks": [
+      {
+        "w": 1422144000,
+        "a": 1,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1422748800,
+        "a": 381,
+        "d": 97,
+        "c": 7
+      },
+      {
+        "w": 1423353600,
+        "a": 1531,
+        "d": 1191,
+        "c": 8
+      },
+      {
+        "w": 1423958400,
+        "a": 632,
+        "d": 219,
+        "c": 3
+      },
+      {
+        "w": 1424563200,
+        "a": 530,
+        "d": 931,
+        "c": 2
+      },
+      {
+        "w": 1425168000,
+        "a": 1590,
+        "d": 387,
+        "c": 8
+      },
+      {
+        "w": 1425772800,
+        "a": 5215,
+        "d": 347,
+        "c": 10
+      },
+      {
+        "w": 1426377600,
+        "a": 11882,
+        "d": 1517,
+        "c": 9
+      },
+      {
+        "w": 1426982400,
+        "a": 5342,
+        "d": 273,
+        "c": 6
+      },
+      {
+        "w": 1427587200,
+        "a": 2116,
+        "d": 3054,
+        "c": 6
+      },
+      {
+        "w": 1428192000,
+        "a": 3436,
+        "d": 1792,
+        "c": 6
+      },
+      {
+        "w": 1428796800,
+        "a": 1673,
+        "d": 375,
+        "c": 3
+      }
+    ],
+    "author": {
+      "login": "EdwinAvalos7",
+      "id": 10537146,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10537146?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/EdwinAvalos7",
+      "html_url": "https://github.com/EdwinAvalos7",
+      "followers_url": "https://api.github.com/users/EdwinAvalos7/followers",
+      "following_url": "https://api.github.com/users/EdwinAvalos7/following{/other_user}",
+      "gists_url": "https://api.github.com/users/EdwinAvalos7/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/EdwinAvalos7/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/EdwinAvalos7/subscriptions",
+      "organizations_url": "https://api.github.com/users/EdwinAvalos7/orgs",
+      "repos_url": "https://api.github.com/users/EdwinAvalos7/repos",
+      "events_url": "https://api.github.com/users/EdwinAvalos7/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/EdwinAvalos7/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  }
+]

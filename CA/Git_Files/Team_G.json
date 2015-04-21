@@ -1,0 +1,614 @@
+[
+  {
+    "total": 1,
+    "weeks": [
+      {
+        "w": 1421539200,
+        "a": 13,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423958400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425168000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1427587200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "gsvendso",
+      "id": 10001719,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10001719?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gsvendso",
+      "html_url": "https://github.com/gsvendso",
+      "followers_url": "https://api.github.com/users/gsvendso/followers",
+      "following_url": "https://api.github.com/users/gsvendso/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gsvendso/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gsvendso/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gsvendso/subscriptions",
+      "organizations_url": "https://api.github.com/users/gsvendso/orgs",
+      "repos_url": "https://api.github.com/users/gsvendso/repos",
+      "events_url": "https://api.github.com/users/gsvendso/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gsvendso/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 7,
+    "weeks": [
+      {
+        "w": 1421539200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423958400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425168000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1427587200,
+        "a": 31,
+        "d": 7,
+        "c": 3
+      },
+      {
+        "w": 1428192000,
+        "a": 219,
+        "d": 68,
+        "c": 3
+      },
+      {
+        "w": 1428796800,
+        "a": 24,
+        "d": 7,
+        "c": 1
+      }
+    ],
+    "author": {
+      "login": "nkrogstad",
+      "id": 10639553,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639553?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/nkrogstad",
+      "html_url": "https://github.com/nkrogstad",
+      "followers_url": "https://api.github.com/users/nkrogstad/followers",
+      "following_url": "https://api.github.com/users/nkrogstad/following{/other_user}",
+      "gists_url": "https://api.github.com/users/nkrogstad/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/nkrogstad/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/nkrogstad/subscriptions",
+      "organizations_url": "https://api.github.com/users/nkrogstad/orgs",
+      "repos_url": "https://api.github.com/users/nkrogstad/repos",
+      "events_url": "https://api.github.com/users/nkrogstad/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/nkrogstad/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 29,
+    "weeks": [
+      {
+        "w": 1421539200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 91,
+        "d": 0,
+        "c": 2
+      },
+      {
+        "w": 1423353600,
+        "a": 173,
+        "d": 93,
+        "c": 5
+      },
+      {
+        "w": 1423958400,
+        "a": 142,
+        "d": 54,
+        "c": 4
+      },
+      {
+        "w": 1424563200,
+        "a": 619,
+        "d": 88,
+        "c": 9
+      },
+      {
+        "w": 1425168000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1427587200,
+        "a": 12,
+        "d": 12,
+        "c": 9
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "coltonRose",
+      "id": 10538749,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10538749?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/coltonRose",
+      "html_url": "https://github.com/coltonRose",
+      "followers_url": "https://api.github.com/users/coltonRose/followers",
+      "following_url": "https://api.github.com/users/coltonRose/following{/other_user}",
+      "gists_url": "https://api.github.com/users/coltonRose/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/coltonRose/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/coltonRose/subscriptions",
+      "organizations_url": "https://api.github.com/users/coltonRose/orgs",
+      "repos_url": "https://api.github.com/users/coltonRose/repos",
+      "events_url": "https://api.github.com/users/coltonRose/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/coltonRose/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 37,
+    "weeks": [
+      {
+        "w": 1421539200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423958400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1424563200,
+        "a": 138,
+        "d": 59,
+        "c": 4
+      },
+      {
+        "w": 1425168000,
+        "a": 1106,
+        "d": 466,
+        "c": 11
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 19,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1427587200,
+        "a": 1505,
+        "d": 1471,
+        "c": 18
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 1156,
+        "d": 893,
+        "c": 3
+      }
+    ],
+    "author": {
+      "login": "aamannon",
+      "id": 7002861,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7002861?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/aamannon",
+      "html_url": "https://github.com/aamannon",
+      "followers_url": "https://api.github.com/users/aamannon/followers",
+      "following_url": "https://api.github.com/users/aamannon/following{/other_user}",
+      "gists_url": "https://api.github.com/users/aamannon/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/aamannon/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/aamannon/subscriptions",
+      "organizations_url": "https://api.github.com/users/aamannon/orgs",
+      "repos_url": "https://api.github.com/users/aamannon/repos",
+      "events_url": "https://api.github.com/users/aamannon/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/aamannon/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 48,
+    "weeks": [
+      {
+        "w": 1421539200,
+        "a": 504,
+        "d": 7,
+        "c": 3
+      },
+      {
+        "w": 1422144000,
+        "a": 31,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 109,
+        "d": 688,
+        "c": 4
+      },
+      {
+        "w": 1423958400,
+        "a": 121731,
+        "d": 1,
+        "c": 2
+      },
+      {
+        "w": 1424563200,
+        "a": 730,
+        "d": 122204,
+        "c": 7
+      },
+      {
+        "w": 1425168000,
+        "a": 662,
+        "d": 392,
+        "c": 4
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 775,
+        "d": 415,
+        "c": 6
+      },
+      {
+        "w": 1427587200,
+        "a": 1333,
+        "d": 1131,
+        "c": 14
+      },
+      {
+        "w": 1428192000,
+        "a": 244,
+        "d": 110,
+        "c": 3
+      },
+      {
+        "w": 1428796800,
+        "a": 1638,
+        "d": 30,
+        "c": 4
+      }
+    ],
+    "author": {
+      "login": "GSvendson",
+      "id": 2824075,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2824075?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/GSvendson",
+      "html_url": "https://github.com/GSvendson",
+      "followers_url": "https://api.github.com/users/GSvendson/followers",
+      "following_url": "https://api.github.com/users/GSvendson/following{/other_user}",
+      "gists_url": "https://api.github.com/users/GSvendson/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/GSvendson/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/GSvendson/subscriptions",
+      "organizations_url": "https://api.github.com/users/GSvendson/orgs",
+      "repos_url": "https://api.github.com/users/GSvendson/repos",
+      "events_url": "https://api.github.com/users/GSvendson/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/GSvendson/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 213,
+    "weeks": [
+      {
+        "w": 1421539200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422144000,
+        "a": 386,
+        "d": 10,
+        "c": 4
+      },
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 1381,
+        "d": 647,
+        "c": 4
+      },
+      {
+        "w": 1423958400,
+        "a": 1201,
+        "d": 48,
+        "c": 7
+      },
+      {
+        "w": 1424563200,
+        "a": 1718,
+        "d": 1173,
+        "c": 16
+      },
+      {
+        "w": 1425168000,
+        "a": 52,
+        "d": 140,
+        "c": 10
+      },
+      {
+        "w": 1425772800,
+        "a": 159,
+        "d": 107,
+        "c": 6
+      },
+      {
+        "w": 1426377600,
+        "a": 21,
+        "d": 124,
+        "c": 4
+      },
+      {
+        "w": 1426982400,
+        "a": 327,
+        "d": 129,
+        "c": 14
+      },
+      {
+        "w": 1427587200,
+        "a": 1474,
+        "d": 1059,
+        "c": 49
+      },
+      {
+        "w": 1428192000,
+        "a": 559508,
+        "d": 489755,
+        "c": 81
+      },
+      {
+        "w": 1428796800,
+        "a": 5394,
+        "d": 3973,
+        "c": 18
+      }
+    ],
+    "author": {
+      "login": "gtikhono",
+      "id": 10001749,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10001749?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gtikhono",
+      "html_url": "https://github.com/gtikhono",
+      "followers_url": "https://api.github.com/users/gtikhono/followers",
+      "following_url": "https://api.github.com/users/gtikhono/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gtikhono/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gtikhono/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gtikhono/subscriptions",
+      "organizations_url": "https://api.github.com/users/gtikhono/orgs",
+      "repos_url": "https://api.github.com/users/gtikhono/repos",
+      "events_url": "https://api.github.com/users/gtikhono/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gtikhono/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  }
+]

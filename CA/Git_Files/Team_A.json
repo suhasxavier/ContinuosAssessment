@@ -1,0 +1,614 @@
+[
+  {
+    "total": 5,
+    "weeks": [
+      {
+        "w": 1421539200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423958400,
+        "a": 25,
+        "d": 9,
+        "c": 5
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425168000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1427587200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "kgary",
+      "id": 1686725,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1686725?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kgary",
+      "html_url": "https://github.com/kgary",
+      "followers_url": "https://api.github.com/users/kgary/followers",
+      "following_url": "https://api.github.com/users/kgary/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kgary/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kgary/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kgary/subscriptions",
+      "organizations_url": "https://api.github.com/users/kgary/orgs",
+      "repos_url": "https://api.github.com/users/kgary/repos",
+      "events_url": "https://api.github.com/users/kgary/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kgary/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 18,
+    "weeks": [
+      {
+        "w": 1421539200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 1015,
+        "d": 106,
+        "c": 2
+      },
+      {
+        "w": 1423958400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425168000,
+        "a": 742,
+        "d": 0,
+        "c": 2
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 1285,
+        "d": 102,
+        "c": 4
+      },
+      {
+        "w": 1427587200,
+        "a": 797,
+        "d": 575,
+        "c": 4
+      },
+      {
+        "w": 1428192000,
+        "a": 212,
+        "d": 79,
+        "c": 5
+      },
+      {
+        "w": 1428796800,
+        "a": 146,
+        "d": 67,
+        "c": 1
+      }
+    ],
+    "author": {
+      "login": "CodeKidAZ",
+      "id": 10537118,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10537118?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/CodeKidAZ",
+      "html_url": "https://github.com/CodeKidAZ",
+      "followers_url": "https://api.github.com/users/CodeKidAZ/followers",
+      "following_url": "https://api.github.com/users/CodeKidAZ/following{/other_user}",
+      "gists_url": "https://api.github.com/users/CodeKidAZ/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/CodeKidAZ/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/CodeKidAZ/subscriptions",
+      "organizations_url": "https://api.github.com/users/CodeKidAZ/orgs",
+      "repos_url": "https://api.github.com/users/CodeKidAZ/repos",
+      "events_url": "https://api.github.com/users/CodeKidAZ/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/CodeKidAZ/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 26,
+    "weeks": [
+      {
+        "w": 1421539200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 161,
+        "d": 0,
+        "c": 3
+      },
+      {
+        "w": 1423353600,
+        "a": 389,
+        "d": 6,
+        "c": 1
+      },
+      {
+        "w": 1423958400,
+        "a": 48,
+        "d": 252,
+        "c": 1
+      },
+      {
+        "w": 1424563200,
+        "a": 425,
+        "d": 248,
+        "c": 2
+      },
+      {
+        "w": 1425168000,
+        "a": 1,
+        "d": 1,
+        "c": 1
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 326,
+        "d": 170,
+        "c": 2
+      },
+      {
+        "w": 1427587200,
+        "a": 621,
+        "d": 490,
+        "c": 13
+      },
+      {
+        "w": 1428192000,
+        "a": 301,
+        "d": 37,
+        "c": 3
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "WesCoomber",
+      "id": 10535300,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10535300?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/WesCoomber",
+      "html_url": "https://github.com/WesCoomber",
+      "followers_url": "https://api.github.com/users/WesCoomber/followers",
+      "following_url": "https://api.github.com/users/WesCoomber/following{/other_user}",
+      "gists_url": "https://api.github.com/users/WesCoomber/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/WesCoomber/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/WesCoomber/subscriptions",
+      "organizations_url": "https://api.github.com/users/WesCoomber/orgs",
+      "repos_url": "https://api.github.com/users/WesCoomber/repos",
+      "events_url": "https://api.github.com/users/WesCoomber/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/WesCoomber/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 27,
+    "weeks": [
+      {
+        "w": 1421539200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 215,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1423353600,
+        "a": 406,
+        "d": 217,
+        "c": 4
+      },
+      {
+        "w": 1423958400,
+        "a": 212,
+        "d": 20,
+        "c": 3
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 44,
+        "c": 1
+      },
+      {
+        "w": 1425168000,
+        "a": 204,
+        "d": 65,
+        "c": 3
+      },
+      {
+        "w": 1425772800,
+        "a": 1,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1426377600,
+        "a": 195,
+        "d": 5,
+        "c": 2
+      },
+      {
+        "w": 1426982400,
+        "a": 48,
+        "d": 61,
+        "c": 2
+      },
+      {
+        "w": 1427587200,
+        "a": 293,
+        "d": 87,
+        "c": 5
+      },
+      {
+        "w": 1428192000,
+        "a": 268,
+        "d": 70,
+        "c": 5
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "danieltracy",
+      "id": 10535489,
+      "avatar_url": "https://avatars.githubusercontent.com/u/10535489?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/danieltracy",
+      "html_url": "https://github.com/danieltracy",
+      "followers_url": "https://api.github.com/users/danieltracy/followers",
+      "following_url": "https://api.github.com/users/danieltracy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/danieltracy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/danieltracy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/danieltracy/subscriptions",
+      "organizations_url": "https://api.github.com/users/danieltracy/orgs",
+      "repos_url": "https://api.github.com/users/danieltracy/repos",
+      "events_url": "https://api.github.com/users/danieltracy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/danieltracy/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 33,
+    "weeks": [
+      {
+        "w": 1421539200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 330,
+        "d": 0,
+        "c": 2
+      },
+      {
+        "w": 1423353600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423958400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1424563200,
+        "a": 122,
+        "d": 0,
+        "c": 2
+      },
+      {
+        "w": 1425168000,
+        "a": 663,
+        "d": 394,
+        "c": 8
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 401,
+        "d": 54,
+        "c": 4
+      },
+      {
+        "w": 1426982400,
+        "a": 251,
+        "d": 101,
+        "c": 3
+      },
+      {
+        "w": 1427587200,
+        "a": 20,
+        "d": 23,
+        "c": 4
+      },
+      {
+        "w": 1428192000,
+        "a": 7718,
+        "d": 7355,
+        "c": 7
+      },
+      {
+        "w": 1428796800,
+        "a": 186,
+        "d": 47,
+        "c": 3
+      }
+    ],
+    "author": {
+      "login": "msmtms",
+      "id": 5751238,
+      "avatar_url": "https://avatars.githubusercontent.com/u/5751238?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/msmtms",
+      "html_url": "https://github.com/msmtms",
+      "followers_url": "https://api.github.com/users/msmtms/followers",
+      "following_url": "https://api.github.com/users/msmtms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/msmtms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/msmtms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/msmtms/subscriptions",
+      "organizations_url": "https://api.github.com/users/msmtms/orgs",
+      "repos_url": "https://api.github.com/users/msmtms/repos",
+      "events_url": "https://api.github.com/users/msmtms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/msmtms/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 49,
+    "weeks": [
+      {
+        "w": 1421539200,
+        "a": 710,
+        "d": 0,
+        "c": 2
+      },
+      {
+        "w": 1422144000,
+        "a": 130,
+        "d": 0,
+        "c": 2
+      },
+      {
+        "w": 1422748800,
+        "a": 162,
+        "d": 19,
+        "c": 3
+      },
+      {
+        "w": 1423353600,
+        "a": 182,
+        "d": 62,
+        "c": 3
+      },
+      {
+        "w": 1423958400,
+        "a": 98,
+        "d": 41,
+        "c": 6
+      },
+      {
+        "w": 1424563200,
+        "a": 399,
+        "d": 103,
+        "c": 6
+      },
+      {
+        "w": 1425168000,
+        "a": 2376,
+        "d": 3444,
+        "c": 17
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 77,
+        "d": 65,
+        "c": 2
+      },
+      {
+        "w": 1426982400,
+        "a": 202,
+        "d": 76,
+        "c": 3
+      },
+      {
+        "w": 1427587200,
+        "a": 5631,
+        "d": 13,
+        "c": 5
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "notriddle",
+      "id": 1593513,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1593513?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/notriddle",
+      "html_url": "https://github.com/notriddle",
+      "followers_url": "https://api.github.com/users/notriddle/followers",
+      "following_url": "https://api.github.com/users/notriddle/following{/other_user}",
+      "gists_url": "https://api.github.com/users/notriddle/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/notriddle/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/notriddle/subscriptions",
+      "organizations_url": "https://api.github.com/users/notriddle/orgs",
+      "repos_url": "https://api.github.com/users/notriddle/repos",
+      "events_url": "https://api.github.com/users/notriddle/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/notriddle/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "total": 1,
+    "weeks": [
+      {
+        "w": 1421539200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1423353600,
+        "a": 0,
+        "d": 2,
+        "c": 1
+      },
+      {
+        "w": 1423958400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425168000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1427587200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "jsd1710",
+      "id": 2375180,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2375180?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jsd1710",
+      "html_url": "https://github.com/jsd1710",
+      "followers_url": "https://api.github.com/users/jsd1710/followers",
+      "following_url": "https://api.github.com/users/jsd1710/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jsd1710/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jsd1710/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jsd1710/subscriptions",
+      "organizations_url": "https://api.github.com/users/jsd1710/orgs",
+      "repos_url": "https://api.github.com/users/jsd1710/repos",
+      "events_url": "https://api.github.com/users/jsd1710/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jsd1710/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  },
+  {
+    "total": 26,
+    "weeks": [
+      {
+        "w": 1421539200,
+        "a": 1795,
+        "d": 9,
+        "c": 6
+      },
+      {
+        "w": 1422144000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1422748800,
+        "a": 3,
+        "d": 0,
+        "c": 1
+      },
+      {
+        "w": 1423353600,
+        "a": 2288,
+        "d": 53,
+        "c": 5
+      },
+      {
+        "w": 1423958400,
+        "a": 1392,
+        "d": 132,
+        "c": 5
+      },
+      {
+        "w": 1424563200,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1425168000,
+        "a": 3,
+        "d": 1,
+        "c": 2
+      },
+      {
+        "w": 1425772800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426377600,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1426982400,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1427587200,
+        "a": 5025,
+        "d": 16,
+        "c": 7
+      },
+      {
+        "w": 1428192000,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      },
+      {
+        "w": 1428796800,
+        "a": 0,
+        "d": 0,
+        "c": 0
+      }
+    ],
+    "author": {
+      "login": "kole9273",
+      "id": 4130323,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4130323?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kole9273",
+      "html_url": "https://github.com/kole9273",
+      "followers_url": "https://api.github.com/users/kole9273/followers",
+      "following_url": "https://api.github.com/users/kole9273/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kole9273/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kole9273/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kole9273/subscriptions",
+      "organizations_url": "https://api.github.com/users/kole9273/orgs",
+      "repos_url": "https://api.github.com/users/kole9273/repos",
+      "events_url": "https://api.github.com/users/kole9273/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kole9273/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  }
+]
